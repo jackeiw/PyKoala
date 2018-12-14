@@ -15,6 +15,8 @@ print('shit')
 
 print("hello world! x1c")
 
+print("hello world! T410")
+
 
 
 
