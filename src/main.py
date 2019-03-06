@@ -4,7 +4,7 @@ if 10 > 210:
     print("greater than!")
     print("right!")
 else:
-    print ("less than!")
+    print("less than!")
     pass
 
 a = 100
