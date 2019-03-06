@@ -19,6 +19,8 @@ print("hello world! T410")
 
 print("hello world! T410 ubuntu!")
 
+print("hello world! x1c ubuntu!")
+
 
 
 
