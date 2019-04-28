@@ -4,7 +4,7 @@ if 10 > 210:
     print("greater than!")
     print("right!")
 else:
-    print ("less than!")
+    print("less than!")
     pass
 
 a = 100
@@ -18,6 +18,8 @@ print("hello world! x1c")
 print("hello world! T410")
 
 print("hello world! T410 ubuntu!")
+
+print("hello world! x1c ubuntu!")
 
 
 
