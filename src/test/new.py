@@ -1,3 +1,4 @@
+'''
 testname = '我是Carl'
 print(testname.capitalize())
 
@@ -12,3 +13,7 @@ print(testname.find('ll'))
 #import this
 
 help(type(testname))
+'''
+
+
+
